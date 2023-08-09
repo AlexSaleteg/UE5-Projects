@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/alexander.saleteg/DocumentsLocal/UnrealProjects/Shared/UE5-Projects/VFX_Course/Content/VFX/NS_Firework.uasset",
+				"C:/Users/alexander.saleteg/DocumentsLocal/UnrealProjects/Shared/UE5-Projects/VFX_Course/Content/VFX/NS_FlareFountain.uasset",
+				"C:/Users/alexander.saleteg/DocumentsLocal/UnrealProjects/Shared/UE5-Projects/VFX_Course/Content/__ExternalActors__/VFX_Testmap/E/GF/G3GJ8ZLWSBUYKX51E3JZ1L.uasset",
 				"C:/Users/AlexS/Unreal Projects/UE5-Projects/VFX_Course/Content/BP_FireworkFountain.uasset",
 				"C:/Users/AlexS/Unreal Projects/UE5-Projects/VFX_Course/Content/VFX/NS_FlareFountain.uasset",
 				"C:/Users/AlexS/Unreal Projects/UE5-Projects/VFX_Course/Content/VFX/NS_FountainFirework.uasset",
