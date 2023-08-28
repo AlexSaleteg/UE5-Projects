@@ -72,6 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Saved/Crashes/**
+
+*/Saved/Crashes/**
+*/Saved/Config/CrashReportClient/**
+
 VFX_Course/Saved/Crashes/UECC-Windows-F3120913404673003D5E869EDF7216A3_0003/VFX_Course.log
 VFX_Course/Saved/Crashes/UECC-Windows-9ABBC85644393A0D28EDE7B52DE2D7E5_0000/CrashContext.runtime-xml
